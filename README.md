@@ -1,3 +1,3 @@
 # Netflix Data Analysis (Movies & TV Shows)
 
-t[NETFLIX LOGO]()
+![NETFLIX LOGO](https://github.com/avijeetbudhe/Netflix_sql/blob/main/logo.png)
